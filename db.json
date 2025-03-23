@@ -1,1 +1,47 @@
-{"sensores": [{"id":"1","temp":"25.1","pres":"0.88","hum":"0.85","timestamp":"2024-12-28T07:34:25Z","direccion":"Avenida Velez Sarsfield"},{"id":"2","temp":"25.5","pres":"0.82","hum":"0.86","timestamp":"2024-11-22T03:48:29Z","direccion":"Malalco 7350"},{"id":"3","temp":"24.4","pres":"0.81","hum":"0.52","timestamp":"2024-12-07T15:23:03Z","direccion":"Gongora 750"},{"id":"4","temp":"18.0","pres":"0.93","hum":"0.1","timestamp":"2024-11-13T19:47:40Z","direccion":"Padre Luis Monti 4800"},{"id":"5","temp":"15.7","pres":"0.85","hum":"0.23","timestamp":"2024-07-19T16:35:01Z","direccion":"Celestino Vidal 2895"},{"id":"6","temp":"13.0","pres":"0.8","hum":"0.15","timestamp":"2024-02-21T16:11:34Z","direccion":"C 3864"},{"id":"7","temp":"10.9","pres":"0.82","hum":"0.84","timestamp":"2024-05-02T07:15:24Z","direccion":"Avenida Hugo Wast 4461"},{"id":"8","temp":"13.1","pres":"1.04","hum":"0.49","timestamp":"2024-02-28T18:15:57Z","direccion":"Avenida Duarte Quiros 2980"},{"id":"9","temp":"14.6","pres":"1.09","hum":"0.65","timestamp":"2024-11-21T10:49:50Z","direccion":"Pettirossi 3006"},{"id":"10","temp":"17.2","pres":"1.08","hum":"0.14","timestamp":"2024-12-25T05:10:58Z","direccion":"Caseros 1051"},{"id":"11","temp":"21.9","pres":"1.08","hum":"0.23","timestamp":"2024-03-06T04:53:06Z","direccion":"Malvinas 5700"},{"id":"12","temp":"23.5","pres":"0.86","hum":"0.05","timestamp":"2024-12-05T08:01:26Z","direccion":"Republica de Siria 1190"},{"id":"13","temp":"25.5","pres":"0.81","hum":"0.8","timestamp":"2024-01-16T21:39:47Z","direccion":"Tartagal 3865"},{"id":"14","temp":"23.6","pres":"0.97","hum":"0.86","timestamp":"2024-12-19T13:30:48Z","direccion":"Avenida Doctor Arturo Capdevila 1086"},{"id":"15","temp":"22.2","pres":"0.98","hum":"0.26","timestamp":"2024-12-16T07:53:36Z","direccion":"Rio Colorado 5600"},{"id":"16","temp":"20.7","pres":"1.09","hum":"0.03","timestamp":"2024-09-29T17:21:07Z","direccion":"Polonia 1505"},{"id":"17","temp":"14.3","pres":"0.81","hum":"0.64","timestamp":"2025-03-06T03:15:43Z","direccion":"Huerta de San Anton DC"},{"id":"18","temp":"11.9","pres":"0.82","hum":"0.28","timestamp":"2025-01-14T19:44:05Z","direccion":"Alto del Tala 5500"},{"id":"19","temp":"12.2","pres":"0.86","hum":"0.75","timestamp":"2024-04-03T00:09:21Z","direccion":"Roma 1040"},{"id":"20","temp":"13.2","pres":"1.1","hum":"0.08","timestamp":"2024-06-14T00:05:22Z","direccion":"San Rafael de la Albaida"},{"id":"21","temp":"16.0","pres":"0.85","hum":"0.13","timestamp":"2024-04-25T01:17:19Z","direccion":"Pedro MEdrano 0"},{"id":"22","temp":"18.8","pres":"1.09","hum":"0.33","timestamp":"2024-01-24T23:43:49Z","direccion":"Capdevila 2885"},{"id":"23","temp":"21.6","pres":"0.93","hum":"0.99","timestamp":"2024-11-12T03:04:11Z","direccion":"San Jeronimo 561"},{"id":"24","temp":"25.0","pres":"0.94","hum":"0.77","timestamp":"2024-08-16T04:04:39Z","direccion":"Pedro Arata 2443"},{"id":"25","temp":"26.2","pres":"0.98","hum":"0.8","timestamp":"2024-11-12T08:32:11Z","direccion":"Anacreonte 754"},{"id":"26","temp":"23.2","pres":"1.07","hum":"0.86","timestamp":"2024-07-29T08:20:13Z","direccion":"Maestro Vidal 1873"},{"id":"27","temp":"20.8","pres":"0.95","hum":"0.72","timestamp":"2024-08-07T08:26:57Z","direccion":"Tejeda 4370"},{"id":"28","temp":"18.0","pres":"1.01","hum":"0.62","timestamp":"2025-01-21T23:54:28Z","direccion":"Tucuman 82"},{"id":"29","temp":"13.8","pres":"1.05","hum":"0.74","timestamp":"2024-12-04T06:40:32Z","direccion":"Avenida Roque Saenz Pena 1509"},{"id":"30","temp":"10.8","pres":"0.89","hum":"0.12","timestamp":"2024-06-09T10:41:24Z","direccion":"Avenida Don Bosco 4470"}]}
+{
+    "5": {
+        "id": "5",
+        "temp": "15.7",
+        "pres": "0.95",
+        "hum": "0.23",
+        "timestamp": "2024-07-19T16:35:01Z",
+        "direccion": "Celestino Vidal 2895",
+        "barrio": "Patricios"
+    },
+    "4": {
+        "id": "4",
+        "temp": "18.0",
+        "pres": "0.93",
+        "hum": "0.1",
+        "timestamp": "2024-11-13T19:47:40Z",
+        "direccion": "Dr Juan Filloy",
+        "barrio": "Cdad. Universitaria"
+    },
+    "3": {
+        "id": "3",
+        "temp": "24.4",
+        "pres": "0.91",
+        "hum": "0.52",
+        "timestamp": "2024-12-07T15:23:03Z",
+        "direccion": "Bernasconi 1896",
+        "barrio": "Santa Isabel"
+    },
+    "2": {
+        "id": "2",
+        "temp": "25.5",
+        "pres": "0.92",
+        "hum": "0.86",
+        "timestamp": "2024-11-22T03:48:29Z",
+        "direccion": "Luis Tamini",
+        "barrio": "Villa Urquiza"
+    },
+    "1": {
+        "id": "1",
+        "temp": "25.1",
+        "pres": "0.98",
+        "hum": "0.85",
+        "timestamp": "2024-12-28T07:34:25Z",
+        "direccion": "Sta Fe 200",
+        "barrio": "Alberdi"
+    }
+}
