@@ -2,10 +2,14 @@
 
 Ejemplo de sensores del clima para practicar en arquitectura de software I
 
-Copiá y pegá el siguiente código en tu terminal (tenés que tener `curl` instalado)
+Los siguientes comandos permiten realizar las consultas (tenés que tener `curl` instalado):
 
+**Retornar todos sensores:**
 ~~~bash
-curl 'https://my-json-server.typicode.com/GerMorini/sensores/db' # Retorna todos los sensores
+curl 'https://my-json-server.typicode.com/GerMorini/sensores/db'
+~~~
 
-curl 'https://my-json-server.typicode.com/GerMorini/sensores/N' # Retorna el de id=N (cambiá N por un numero entre 1 y 5)
+**Retornar el sensor** `N`: (hay entre 1 y 5 sensores)
+~~~bash
+curl 'https://my-json-server.typicode.com/GerMorini/sensores/N'
 ~~~
